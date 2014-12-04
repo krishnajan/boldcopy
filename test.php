@@ -1,4 +1,6 @@
 <?
-echo "hi";
+echo "hi"
+
+hello;
 
 ?>
